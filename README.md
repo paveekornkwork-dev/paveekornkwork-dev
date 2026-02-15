@@ -71,6 +71,16 @@ A web-based system developed as part of an academic project.
 
 ---
 
+## My Activities
+**Startup Thailand League 2025**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8be3def2-2edc-4b2f-a155-e7c06fedf64f" width="300">
+</p>
+
+**Startup Thailand League 2026**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9fc897b-95a0-4627-859e-3356850c3482" width="300">
+</p>
 ## 🌐 Contact
 
 - GitHub: [paveekornkwork-dev](https://github.com/paveekornkwork-dev)  
