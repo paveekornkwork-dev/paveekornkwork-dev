@@ -31,7 +31,7 @@ I am looking for an internship opportunity to gain real-world experience and lea
 
 ---
 
-## 🧠 Projects
+## 🧠 Example Project
 
 ### 📌 LearnVentory Hub System
 A web-based system developed as part of an academic project.
