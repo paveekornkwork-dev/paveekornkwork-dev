@@ -71,7 +71,7 @@ A web-based system developed as part of an academic project.
 
 ---
 
-## My Activities
+## 💪 My Activities
 **Startup Thailand League 2025**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8be3def2-2edc-4b2f-a155-e7c06fedf64f" width="300">
