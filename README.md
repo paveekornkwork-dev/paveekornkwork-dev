@@ -81,6 +81,9 @@ A web-based system developed as part of an academic project.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a9fc897b-95a0-4627-859e-3356850c3482" width="300">
 </p>
+
+---
+
 ## 🌐 Contact
 
 - GitHub: [paveekornkwork-dev](https://github.com/paveekornkwork-dev)  
