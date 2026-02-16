@@ -4,6 +4,11 @@
 **Faculty of Science and Technology, Huachiew Chalermprakiet University**  
 📌 Year 3
 
+## 🌐 Contact
+
+- GitHub: [paveekornkwork-dev](https://github.com/paveekornkwork-dev)  
+- Email: paveekornk.work@gmail.com  
+
 ---
 
 ## 💼 Internship Interests
@@ -84,11 +89,6 @@ A web-based system developed as part of an academic project.
 
 ---
 
-## 🌐 Contact
 
-- GitHub: [paveekornkwork-dev](https://github.com/paveekornkwork-dev)  
-- Email: paveekornk.work@gmail.com  
-
----
 
 _Thank you for visiting my profile. I am always eager to learn and improve as a developer._
