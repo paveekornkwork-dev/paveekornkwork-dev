@@ -76,7 +76,7 @@ A web-based system developed as part of an academic project.
 
 ---
 
-## 💪 My Activities
+## 🏆 My Competitions
 **Startup Thailand League 2025**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8be3def2-2edc-4b2f-a155-e7c06fedf64f" width="300">
@@ -89,6 +89,23 @@ A web-based system developed as part of an academic project.
 
 ---
 
+## 💪 My Activities
+**ละครเวที ปฐมนิเทศนักศึกษาใหม่ปี 2567**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9f63fbc4-6e5e-4589-8435-df40684fea85" width="300">
+  <img src="https://github.com/user-attachments/assets/527eec27-621b-4862-b5ce-e0eb6478fa64" width="300">
+</p>
 
+**เชียร์หลีดเดอร์คณะวิทยาศาสตร์และเทคโนโลยี**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e7eeb57d-054a-454d-973f-c5842b174b60" width="300">
+</p>
 
+**Staff Open house 2025 สาขาวิทยาการคอมพิวเตอร์**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd633a90-ffab-4a75-9e01-eb14357641e3" width="300">
+  <img src="https://github.com/user-attachments/assets/4553cc5b-dd3b-4cd4-8369-aff21f8b586b" width="300">
+</p>
+
+---
 _Thank you for visiting my profile. I am always eager to learn and improve as a developer._
