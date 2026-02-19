@@ -8,7 +8,7 @@
 
 - GitHub: [paveekornkwork-dev](https://github.com/paveekornkwork-dev)  
 - Email: 661326@hcu.ac.th
-
+- Phone: 082-414-3451
 ---
 
 ## 💼 Internship Interests
