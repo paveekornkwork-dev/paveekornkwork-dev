@@ -7,7 +7,7 @@
 ## 🌐 Contact
 
 - GitHub: [paveekornkwork-dev](https://github.com/paveekornkwork-dev)  
-- Email: paveekornk.work@gmail.com  
+- Email: 661326@hcu.ac.th
 
 ---
 
