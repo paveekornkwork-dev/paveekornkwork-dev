@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Paveekorn Kaewwattana (Prae)
+## 👋 About Me
 
-🎓 Computer Science student at  
-**Faculty of Science and Technology, Huachiew Chalermprakiet University**  
-📌 Year 3
+Hello! My name is **Paveekorn Kaewwattana (Prae)**.  
+I am a **third-year Computer Science student** in the Faculty of Science and Technology at **Huachiew Chalermprakiet University**.
+
+I am interested in **Full Stack Web Development** and passionate about building web applications and software systems. I am eager to improve my programming skills, collaborate with development teams, and gain real-world experience in software development.
+
+My goal is to apply the knowledge I have learned from my studies to real projects and continuously develop my skills to become a professional software developer in the future.
 
 ## 🌐 Contact
 
